@@ -71,6 +71,6 @@ El equipo de trabajo manda a diseñar una caja cuadrada en acrílico donde allí
 ![](Image/SEM.png)
 
 
-##Video producto final en acción
+## Video producto final en acción
 
 [Video semáforo en acción.](https://www.youtube.com/watch?v=aG9hRTmjEss&list=RDaG9hRTmjEss&start_radio=1)
