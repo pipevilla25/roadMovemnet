@@ -2,15 +2,10 @@
 
 ## Introducción
 
-Indique en esta sección un resumen del problema, y la definición de metas y requerimientos planteados. Asimismo, debe hacer una breve descripción del enfoque de solución planteado, el cual será detallado en la siguiente sección (1 página).
-
 Armenia (Quindío) cuenta con semáforos que funcionan con temporizadores lo cual hace que en los lugares donde exista el semáforo no deje pasar los carros estando las vías peatonales y demás carreteras vacías para el libre tránsito del vehículo, debido a como se dijo anteriormente los semáforos están programados para variar entre sus luces por un tiempo lo que a veces genera una molestia en los conductores que les genera un retardo para llegar a sus destinos.  
 El semáforo inteligente elaborado por MOVILIDAD- INTELIGENTE, se parte de la idea de que en la capital de Quindío actualmente no cuenta con la cantidad de semáforos inteligentes, lo que genera aglomeración de vehículos  innecesariamente en los semáforos a la espera de luz verde, para esto se toma la inteligencia artificial donde se procede hacer varios entrenamientos para el reconocimiento de vehículos, objetos y personas para este semáforo, con esta inteligencia artificial tomar decisiones con respecto al número de vehículos que se encuentren transitando por la carretera. el semáforo inteligente será capaz de  tomar  la decisión de asignar la luz adecuada del mismo para el entorno.
 
 ## Desarrollo
-Explicación de las etapas o fases que componen el proyecto. Esta explicación debe estar soportado en diagramas o figuras que ilustren los componentes del proyecto.  
-Puede emplear subsecciones para realizar una mejor explicación, sin embargo, se recomienda que inicie con una descripción general del sistema propuesta y posteriormente con una descripción de los diferentes componentes del sistema. No olvide la importancia de explicar cómo los diferentes elementos están interrelacionados.
-Como esta sección presenta el desarrollo en forma de resumen, debe referenciar los anexos donde se amplía la información
 
 Anteriormente MOVILIDAD-INTELIGENTE elaboró una documentación donde se planteó el concebir y diseño del prototipo el cual compone en la identificación del problema cómo abordarlo junto con las herramientas y componentes electrónicos o no electrónicos que puedan llevar a la solución del problema. Para este episodio de MOVILIDAD-INTELIGENTE presenta la implementación y el operando de ROAD-MOVEMENT  (semáforo inteligente), para una mejor especificación y mejor entendimiento dividimos esto en varias etapas como se observa a continuación.
 
