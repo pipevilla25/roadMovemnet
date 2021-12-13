@@ -18,7 +18,7 @@ Anteriormente MOVILIDAD-INTELIGENTE elaboró una documentación donde se plante�
 
 Se elabora un estudio adicional sobre los componentes definidos los cuales ayudan a 	la implementación del prototipo donde ROAD-MOVEMENT hace un respectivo cambio en la cámara a utilizar, donde anteriormente se había definido Cámara Dahua Ref(DH-IPC-HFW1431S1-S4)  se cambió por una cámara Web para pc en 1080p donde en [1] cumple con las características adecuadas para este prototipo el cual y por el lado económico no se vio la necesidad de comprar una cámara con mucho más potencial para este primera versión del prototipo. el cual fue el único cambio que se realizó en el proyecto.
 
-![]()
+![](Image/ESQUEMA.png)
 ##### Figura 1: Cámara Dahua para el prototipo establecido imagen tomada de [Dahua-HFW1431S1-S4-CÁMARA-BULLET-IP-4MP-FICHA-TECNICA-ESPAÑOL.pdf]
 
 ![](imagen camara logic)
