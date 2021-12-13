@@ -44,15 +44,15 @@ Lo que equivale a que cuando la red neuronal esté entrenada este se suelta dos 
 ![](Image/ESQUEMA.png)
 ##### Figura 5 Circuito de potencia.
 
-![](Image/PLACA F.png)
+![](Image/PLACAF.png)
 ##### Figura 6 Placa del Circuito de potencia(Parte delantera).
 
-![](Image/PLACA B.png)
+![](Image/PLACAB.png)
 ##### Figura 7 Placa del Circuito de potencia(Parte trasera). 
 
 Esta placa se manda a diseñar el cual esta conlleva su caminos para  Dc y AC en la parte trasera se ven los buses que muestran los caminos del DC y en la parte delantera se ven los buses que lleva la parte AC. dicho funcionamiento de esta placa se describe en la documentación final de CDIO  donde en resumidas cuentas los pines denominados como “y” “g” y “r” manda una señal de voltaje en dc activados por la inteligencia artificial que está subida a la raspberry el cual esta señal llega a unos optoacopladores (elementos blancos) donde esto hace activar internamente un diodo el cual comunica un puente para que se comunique así toda la señal hasta llegar a un triac(últimos elementos de la PCB) donde con la señal que entró en la base al triac hace que se active el circuito dejan pasar la señal Ac que viene conectada a una de las patas y asi esta señal deja pasar la señal ya en Ac para alimentar los bombillos que se ven al final y así activarlas.
 
-![](Image/PLACA R.png)
+![](Image/PLACAR.png)
 ##### Figura 5 Placa física del Circuito de potencia.
 
 ### 4.Etapa (conexiones entre raspberry y placa)
