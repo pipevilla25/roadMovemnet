@@ -61,7 +61,7 @@ En estos pines se conecta los pines de la raspberry el cual la Y(Pin que va cone
 
 ### 5.Etapa (Implementación del semáforo).
 
-El equipo de trabajo manda a diseñar una caja cuadrada en acrílico donde allí se guardará el circuito implementado, donde fuera de ello se elaboró la caja que contiene las tres luces del semáforo inteligente, donde las luces led se enrollan en un recipiente redondo donde su parte delantera está cubierta por un plástico transparente para dar la apariencia de un semáforo común, por último se utiliza una base donde soportará el semáforo junto con el circuito dando como resultado las siguientes figuras.
+El equipo de trabajo manda a diseñar una caja cuadrada en acrílico donde allí se guardará el circuito implementado, donde fuera de ello se elaboró la caja que contiene las tres luces del semáforo inteligente, donde las luces led se enrollan en un recipiente redondo donde su parte delantera está cubierta por un plástico transparente para dar la apariencia de un semáforo común, por último se utiliza una base donde soportará el semáforo junto con el circuito dando como resultado el prototipo de la figura 7.
 
 ![](Image/SEM.png)
 ##### Figura 7 Prototipo del semáforo en funcionamiento.
